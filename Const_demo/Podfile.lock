@@ -1,18 +1,22 @@
 PODS:
+  - Bytedance-UnionAD (3.0.0.6)
   - GDTMobSDK (4.11.9):
     - GDTMobSDK/GDTMobSDK (= 4.11.9)
   - GDTMobSDK/GDTMobSDK (4.11.9)
 
 DEPENDENCIES:
+  - Bytedance-UnionAD (~> 3.0.0.6)
   - GDTMobSDK (~> 4.11.9)
 
 SPEC REPOS:
   trunk:
+    - Bytedance-UnionAD
     - GDTMobSDK
 
 SPEC CHECKSUMS:
+  Bytedance-UnionAD: 31923825e605a888cba7f91e82c349f0ba19b266
   GDTMobSDK: b6427056bbca5ff7b654777604820133006507e5
 
-PODFILE CHECKSUM: ba5598334cb926bb38ffdb2ae05bb7534f20d841
+PODFILE CHECKSUM: 05c908b84cc755f51055c2e20abf3abb8478ba85
 
 COCOAPODS: 1.9.1
